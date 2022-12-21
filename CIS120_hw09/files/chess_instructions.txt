@@ -1,0 +1,20 @@
+Chess Instructions
+
+Welcome to Sam's Chess Game! 
+This game seeks to model the classic game as closely as possible. 
+Just like the board game, White plays first. 
+The usual limitations on piece movement apply. 
+
+At the bottom of the game panel, 
+the current player is shown; make sure you don't grab 
+a piece from the other team!
+
+In addition to these instructions, 
+there are handy buttons on the side that provide 
+functionality to quit and reset the game.
+
+How to play: on your turn, select the piece that 
+you wish to move by clicking it, 
+then click on the square you wish to move to. 
+If the move is valid, the piece will move to the 
+destination square. 
